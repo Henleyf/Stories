@@ -1,0 +1,38 @@
+.button{
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    left: 47%
+}
+
+.button{
+    padding: 20px; 
+    height: 100x;
+    width: 200px;
+    background-color: lime;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.button{
+    color: white;
+    text-decoration: none;
+}
+
+.stories-list{
+    position:absolute;
+    left:35%;
+    top:40%;
+    padding:20px;
+    height:350px;
+    width:600px;
+    color:darkolivegreen; 
+    background-color:rgba(217,230,80,0.8);
+    border:5px solid #228b22;
+  }
+  
+  .stories-link{
+    text-decoration:none;
+    color:darkolivegreen;
+  }
